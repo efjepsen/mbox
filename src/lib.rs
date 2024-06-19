@@ -1,3 +1,5 @@
+#![feature(restricted_std)]
+
 //! `mbox`: `malloc`-based box
 //! ==========================
 //!
